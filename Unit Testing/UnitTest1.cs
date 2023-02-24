@@ -2,6 +2,15 @@
 using System.Data;
 using System.Data.SqlClient;
 
+/** Testing!
+    This program implement testing scenarios 
+    for the WPF application in module 5.
+   
+    @author: Mary Grizelle Hamor
+    @section: BSCS 3-1N
+    @date: January 20, 2023
+ */
+
 namespace Employee_Records_Tests
 {
     [TestClass]
