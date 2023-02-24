@@ -11,7 +11,7 @@ using System.Data.SqlClient;
     @date: January 20, 2023
  */
 
-namespace Employee_Records_Tests
+namespace Unit_Testing
 {
     [TestClass]
     public class UnitTest1
